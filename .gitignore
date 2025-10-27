@@ -162,3 +162,4 @@ binance_trades.csv
 
 # Ignore large video files (assistant)
 src/data/chat_agent/*.mov
+.env_example
